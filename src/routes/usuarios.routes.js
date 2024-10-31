@@ -12,7 +12,6 @@ usuariosRoutes.get("/", (req, res) => {
         : `Total de usuários cadastrados: ${usuarios.length}`,
         usuarios
     });
-})
-
+});
 
 export default usuariosRoutes;
