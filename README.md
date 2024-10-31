@@ -1,4 +1,5 @@
-# Projeto NodeJs Boilerplate
+# Projeto NodeJS Boilerplate
 
-## Descrição 
+## Descrição
+
 Projeto base em NodeJS
